@@ -4,6 +4,8 @@ JavaScript Conway's Game of Life using p5 and p5.clickable libraries. I learned 
 How to run:
 1. Open .html file (should open in your default browser)
 
+or
+
 1. Download VS Code && JavaScript Code Snippets / Live Server extensions
 2. Open the folder in the explorer
 3. Click "Go Live" in bottom right corner
